@@ -10,5 +10,6 @@
 	"months": "{{PLURAL: $1|monato|monati}}",
 	"weeks": "{{PLURAL: $1|semano|semani}}",
 	"days": "{{PLURAL: $1|dio|dii}}",
+	"hours": "{{PLURAL: $1|horo|hori}}",
 	"seconds": "{{PLURAL: $1|sekundo|sekundi}}"
 }

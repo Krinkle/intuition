@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"base_prefslink": "<a href=\"prefs.fcgi\">Cambiar lingua / preferentias</a>",
+	"base_jiralink": "<a href=\"https://jira.toolserver.org/browse/REPORTS\">Reportar un defecto o suggerer un function</a>",
+	"base_wikilink": "<a href=\"https://wiki.toolserver.org/view/Report_tool\">Wiki</a>",
+	"category_users": "Usatores",
+	"category_articles": "Paginas",
+	"category_images": "Imagines",
+	"category_miscellaneous": "Miscellanea"
+}

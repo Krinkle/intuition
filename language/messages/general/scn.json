@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ajeje Brazorf",
 			"Sarvaturi"
 		]
 	},
-	"welcome": "Bimminutu/a"
+	"hello": "Ciau",
+	"welcome": "Bimminutu/a",
+	"days": "{{PLURAL: $1|jornu|jorna}}"
 }
